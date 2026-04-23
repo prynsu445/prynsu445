@@ -1,25 +1,125 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Priyanshu Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prynsu445&label=Profile%20views&color=0e75b6&style=flat" alt="prynsu445" /> </p>
+### 🚀 Frontend Developer | MCA Student | India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prynsu445" alt="prynsu445" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Python, Numpy, Pandas, HTML, CSS, JS, JAVA, React**
+## 🌱 About Me
+- 🎓 MCA Student at **KIIT (CGPA: 7.65)**
+- 💡 Strong foundation in **Java, Python, and Web Development**
+- ⚡ Passionate about building **real-world, scalable applications**
+- 🤝 Skilled in **team collaboration & problem-solving**
+- 📫 Email: **priyanshusharma18015@gmail.com**
 
-- 📫 How to reach me **priyanshusharma0142@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu-sharma-182ab72b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-sharma-182ab72b7" height="30" width="40" /></a>
-<a href="https://instagram.com/curlyfuq_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curlyfuq_jr" height="30" width="40" /></a>
+## 🧠 Professional Summary
+Motivated Computer Application graduate with expertise in **Java, Python, and modern web technologies**.  
+Experienced in building **real-world software solutions** with measurable impact.  
+Eager to contribute to **innovative, tech-driven organizations**. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🎓 Education
+- 🎓 **Master of Computer Applications (MCA)** — KIIT *(2025–Present)*  
+  - CGPA: **7.65**
+
+- 🎓 **Bachelor of Computer Applications (BCA)** — Techno India University *(2022–2025)*  
+  - CGPA: **7.82**
+
+- 🏫 Higher Secondary — Vidya Niketan School *(70%)*  
+- 🏫 Secondary — Vidya Niketan School *(70%)*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Java` `Python` `SQL`
+
+### ⚙️ Frameworks & Libraries
+`React` `NumPy` `Pandas`
+
+### 🗄️ Database
+`MySQL`
+
+### 🧰 Tools
+`Git` `GitHub`
+
+### 🤝 Soft Skills
+- Adaptability  
+- Collaboration  
+- Time Management  
+
+---
+
+## 🚀 Projects
+
+### 🌐 Responsive Portfolio Website
+**Tech:** HTML, CSS, JavaScript  
+- Built a fully responsive portfolio with **95% layout accuracy** across devices  
+- Implemented **interactive UI animations & scroll transitions** → boosted engagement by **40%**  
+- Optimized layouts using **Flexbox & Grid**, reducing deployment errors by **30%**
+
+---
+
+### 🏦 Banking Management System
+**Tech:** Python, Streamlit  
+- Developed an **AI-powered banking assistant**  
+- Improved task completion time by **40%**  
+- Reduced navigation steps by **30%**  
+- Automated data retrieval → cut manual lookup time by **60%**
+
+---
+
+### 🧑‍💼 Employee Management System
+**Tech:** Java, MySQL  
+- Built full-stack HR system → reduced manual processing by **50%**  
+- Improved data accuracy by **35%**  
+- Automated reporting → reduced repetitive work by **45%**
+
+---
+
+## 💼 Experience
+
+### 🌐 Web Development Intern — Acmegrade *(Sep 2024 – Oct 2024)*
+*(IIT Bombay | IIM Ahmedabad | Wipro collaboration)*  
+- Worked on **responsive web applications**  
+- Assisted in **deployment & maintenance** of production systems  
+- Collaborated in a **professional team environment**
+
+---
+
+## 📜 Certifications
+- 🎖️ **Generative AI Professional (2025)** — Oracle University
+
+---
+
+## 🌍 Languages
+- English  
+- Hindi  
+- Bengali  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prynsu445&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prynsu445&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prynsu445&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prynsu445&show_icons=true&locale=en&layout=compact" alt="prynsu445" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prynsu445&show_icons=true&locale=en" alt="prynsu445" /></p>
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prynsu445&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prynsu445&" alt="prynsu445" /></p>
+---
+
+## 💡 Motto
+> *"Build real things. Solve real problems. Keep improving."*
